@@ -5,9 +5,9 @@
   <subtitle>viile&#39;s blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-05-15T02:38:27.990Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://viile.github.io/"/>
+  <updated>2020-05-15T05:54:38.222Z</updated>
+  <id>http://viile.github.io/</id>
   
   <author>
     <name>viile</name>
@@ -17,27 +17,52 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>时间序列异常检测</title>
-    <link href="http://yoursite.com/2020/05/14/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
-    <id>http://yoursite.com/2020/05/14/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</id>
-    <published>2020-05-14T12:39:05.000Z</published>
-    <updated>2020-05-15T02:38:27.990Z</updated>
+    <title>函数调用栈</title>
+    <link href="http://viile.github.io/2020/05/15/%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E6%A0%88/"/>
+    <id>http://viile.github.io/2020/05/15/%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E6%A0%88/</id>
+    <published>2020-05-15T05:45:58.000Z</published>
+    <updated>2020-05-15T05:54:38.222Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p><a href="/file/时间序列异常检测/异常检测:百度是这样做的.htm">异常检测：百度是这样做的</a><br><a href="/file/时间序列异常检测/携程实时智能异常检测平台的算法及工程实现.html">携程实时智能异常检测平台的算法及工程实现</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<blockquote><p><a href="/files/函数调用栈/程序员必备高级技术之函数调用栈.htm">程序员必备高级技术之函数调用栈</a></p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
         &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&quot;/file/时间序列异常检测/异常检测:百度是这样做的.htm&quot;&gt;异常检测：百度是这样做的&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;/file/时间序列异常检测/携程实时智能异常检测平台的算法及工程实现.html&quot;&gt;携程实时智能异常检测平
+&lt;p&gt;&lt;a href=&quot;/files/函数调用栈/程序员必备高级技术之函数调用栈.htm&quot;&gt;程序员必备高级技术之函数调用栈&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
       
     
     </summary>
     
     
     
-      <category term="时间序列异常检测" scheme="http://yoursite.com/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+      <category term="函数调用栈" scheme="http://viile.github.io/tags/%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E6%A0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>时间序列异常检测</title>
+    <link href="http://viile.github.io/2020/05/14/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
+    <id>http://viile.github.io/2020/05/14/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/</id>
+    <published>2020-05-14T12:39:05.000Z</published>
+    <updated>2020-05-15T05:54:38.226Z</updated>
+    
+    <content type="html"><![CDATA[<p>在运维领域，异常检测是很重要的基础，决定了告警的数量和质量，也影响了发现异常之后所需要采取的行动的可靠性。</p><p>然而实际生产环境下异常的判断往往带有主观性，准确率、召回率等指标缺乏客观依据，标注成本又高，导致误报和漏报始终都是一对矛盾的存在。</p><p>本文主要介绍我们在这些已知问题基础上，进一步优化“异常检测”算法的探索和成果，并介绍了如何解决告警实时性的工程技术方案。</p><a id="more"></a><h1 id="架构实现"><a href="#架构实现" class="headerlink" title="架构实现"></a>架构实现</h1><blockquote><p><a href="/files/时间序列异常检测/异常检测:百度是这样做的.htm">异常检测：百度是这样做的</a><br><a href="/files/时间序列异常检测/携程实时智能异常检测平台的算法及工程实现.htm">携程实时智能异常检测平台的算法及工程实现</a></p></blockquote><h1 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h1><blockquote><p><a href="/files/时间序列异常检测/时间序列异常检测算法.htm">时间序列异常检测算法</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;在运维领域，异常检测是很重要的基础，决定了告警的数量和质量，也影响了发现异常之后所需要采取的行动的可靠性。&lt;/p&gt;
+&lt;p&gt;然而实际生产环境下异常的判断往往带有主观性，准确率、召回率等指标缺乏客观依据，标注成本又高，导致误报和漏报始终都是一对矛盾的存在。&lt;/p&gt;
+&lt;p&gt;本文主要介绍我们在这些已知问题基础上，进一步优化“异常检测”算法的探索和成果，并介绍了如何解决告警实时性的工程技术方案。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="时间序列异常检测" scheme="http://viile.github.io/tags/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B/"/>
     
   </entry>
   
