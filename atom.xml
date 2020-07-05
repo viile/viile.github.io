@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://viile.github.io/"/>
-  <updated>2020-07-05T12:16:14.611Z</updated>
+  <updated>2020-07-05T12:20:50.915Z</updated>
   <id>http://viile.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://viile.github.io/2020/06/30/%E4%B8%80%E7%A7%8D%E7%AE%80%E5%8C%96gitflow/"/>
     <id>http://viile.github.io/2020/06/30/%E4%B8%80%E7%A7%8D%E7%AE%80%E5%8C%96gitflow/</id>
     <published>2020-06-30T09:55:12.000Z</published>
-    <updated>2020-07-05T12:16:14.611Z</updated>
+    <updated>2020-07-05T12:20:50.915Z</updated>
     
-    <content type="html"><![CDATA[<p>支持单环境多分支并行开发测试</p><a id="more"></a><p><img src="/files/gitflow/39.png" alt="image"></p>]]></content>
+    <content type="html"><![CDATA[<p>支持单环境多分支并行开发测试</p><a id="more"></a><p><img src="/files/gitflow/39.png" alt="image"></p><p><a href="https://github.com/xirong/my-git/blob/master/git-workflow-tutorial.md#23-gitflow%E5%B7%A5%E4%BD%9C%E6%B5%81" target="_blank" rel="noopener">Git工作流指南</a></p>]]></content>
     
     <summary type="html">
     
