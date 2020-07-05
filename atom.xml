@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://viile.github.io/"/>
-  <updated>2020-05-15T05:54:38.222Z</updated>
+  <updated>2020-07-05T12:16:14.611Z</updated>
   <id>http://viile.github.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一种简化的gitflow</title>
+    <link href="http://viile.github.io/2020/06/30/%E4%B8%80%E7%A7%8D%E7%AE%80%E5%8C%96gitflow/"/>
+    <id>http://viile.github.io/2020/06/30/%E4%B8%80%E7%A7%8D%E7%AE%80%E5%8C%96gitflow/</id>
+    <published>2020-06-30T09:55:12.000Z</published>
+    <updated>2020-07-05T12:16:14.611Z</updated>
+    
+    <content type="html"><![CDATA[<p>支持单环境多分支并行开发测试</p><a id="more"></a><p><img src="/files/gitflow/39.png" alt="image"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;支持单环境多分支并行开发测试&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>函数调用栈</title>
